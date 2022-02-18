@@ -6,7 +6,7 @@
     color :rgb(232, 118, 19)
 }
 p{
-    font-size: 1.0rem;
+    font-size: 2.0rem;
     color: #c4c3c2;
 }
 h1{
@@ -20,8 +20,34 @@ h1{
     float: right;
 }
 .touch{
-    font-size: 1.0rem;
+    font-size: 2.0rem;
     color :rgb(232, 118, 19);
     margin: 0;
 
+}
+.skills-title{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Mulish';
+}
+.skills-section{
+    margin-top: 10rem;
+    /* margin-bottom: 50px; */
+}
+.sub-title{
+    font-size: 40px;
+    color :rgb(232, 118, 19);
+    font-family: Maven Pro;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+.sub-sub-title{
+    font-size: 1.0rem;
+    color: #c4c3c2;
+    text-decoration: none;
+    margin: 0;
+}
+.bar{
+    color: #2e2a26;
 }

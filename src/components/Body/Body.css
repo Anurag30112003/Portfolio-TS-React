@@ -1,7 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Mulish:wght@300&family=Open+Sans&display=swap');
 *{
     margin-left: 2vw;
     margin-right: 2vw;
+    background-color: rgb(39, 39, 39);
+    color :rgb(232, 118, 19)
 }
 p{
     font-size: 1.0rem;
+    color: #c4c3c2;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Mulish';
+
+}
+.profileimg{
+    margin: 3px 10px;
+    float: right;
+}
+.touch{
+    font-size: 1.0rem;
+    color :rgb(232, 118, 19);
+    margin: 0;
+
 }
